@@ -9,10 +9,12 @@ The code has also been tidied up to make it easier to read which will make it ea
 
 Git Hub links 
 
-https://github.com/AbbyIT/Week1Challenge.git
-https://abbyit.github.io/Week1Challenge/
+*https://github.com/AbbyIT/Week1Challenge.git
+*https://abbyit.github.io/Week1Challenge/
 
+SCREENSHOTS 
 
+![image](https://user-images.githubusercontent.com/117487886/222937185-77414509-873f-40ba-af88-83897d0a7dff.png)
 
 
 
