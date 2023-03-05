@@ -7,16 +7,11 @@ Accessible websites are also better positioned in search engines such as Google 
 The code has also been tidied up to make it easier to read which will make it easier for future maintenance. 
 
 
+Git Hub links 
 
-If your README is very long, add a table of contents to make it easy for users to find what they need.
+https://github.com/AbbyIT/Week1Challenge.git
+https://abbyit.github.io/Week1Challenge/
 
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-
-
-## Installation
 
 
 
